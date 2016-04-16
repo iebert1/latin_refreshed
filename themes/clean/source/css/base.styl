@@ -39,6 +39,7 @@ hr.small
   @extend .sans-serif
   .navbar-brand
     font-weight 800
+    color: green
   .nav
     li
       a
@@ -50,7 +51,6 @@ hr.small
     background transparent
     border-bottom 1px solid transparent
     .navbar-brand
-      color white
       padding 20px
       &:hover, &:focus
         color white-faded
@@ -106,11 +106,19 @@ hr.small
   background-attachment scroll
   @extend .background-cover
   margin-bottom 50px
+  .site-heading, .main-heading
+    background-color: black
   .site-heading, .post-heading, .page-heading
-    padding 100px 0 50px
-    color white
+    padding 120px 0 30px
+    color lightskyblue
+    // background-color: black
+    h1
+      color orange
     @media only screen and (min-width: 768px)
-      padding 150px 0
+      padding-top: 20px
+      padding-bottom: 20px
+      margin-top: 130px
+      margin-bottom: 130px
     &.archives
       color brand-primary
       margin-top 60px
