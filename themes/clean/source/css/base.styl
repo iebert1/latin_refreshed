@@ -20,6 +20,7 @@ a
   color gray-dark
   &:hover, &:focus
     color brand-primary
+    background-color: white
 a img
   &:hover, &:focus
     cursor zoom-in
@@ -38,8 +39,9 @@ hr.small
   z-index 3
   @extend .sans-serif
   .navbar-brand
+    height: 60px
     font-weight 800
-    color: green
+    color: #19FF84
   .nav
     li
       a
@@ -51,6 +53,7 @@ hr.small
     background transparent
     border-bottom 1px solid transparent
     .navbar-brand
+      background-color: black
       padding 20px
       &:hover, &:focus
         color white-faded
@@ -59,6 +62,7 @@ hr.small
         a
           color white
           padding 20px
+          background-color: black
           &:hover, &:focus
             color white-faded
   @media only screen and (min-width: 1170px)
@@ -111,12 +115,11 @@ hr.small
   .site-heading, .post-heading, .page-heading
     padding 120px 0 30px
     color lightskyblue
-    // background-color: black
+    background-color: black
     h1
       color orange
     @media only screen and (min-width: 768px)
-      padding-top: 20px
-      padding-bottom: 20px
+      padding: 20px
       margin-top: 130px
       margin-bottom: 130px
     &.archives
@@ -138,6 +141,7 @@ hr.small
       h1
         font-size 80px
   .post-heading
+    padding: 25px
     h1
       font-size 35px
     .subheading, .meta

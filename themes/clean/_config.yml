@@ -1,7 +1,7 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
+  #Archives: /archives
 
 # Title on top left of menu. Leave empty to use main blog title
 menu_title: Latin Refreshed
@@ -26,6 +26,7 @@ comments:
 google_analytics:
 
 # Social Accounts
-twitter_url:
-facebook_url:
-github_url: https://github.com/klugjo/hexo-theme-clean-blog
+twitter_url: https://twitter.com/IrinaEbert
+facebook_url: https://www.facebook.com/keisha.cakes.3
+github_url: https://github.com/iebert1/latin_refreshed
+youtube_url: https://www.youtube.com/channel/UCvXnkUDgxrvn9UXuLWY0krg
