@@ -9,6 +9,7 @@ date: 2016-04-23
 
 It is the 21 century and finding a date is easy! Things are moving fast - virtual reality  searches aggregate/compare gazillions of profiles of some bottomless database, and in seconds give you endless pages of “hand-picked” search results. You look at the proposed “menu items”, slide left, slide right, and Bam! You have a “perfect match” ... and potentially a free dinner at a vegan steakhouse with cool lighting and a provocative decor … Mission accomplished.
 
+{% img /img/Ars-Amatoria-Mosaic.jpg By Deutsch: unbekannt English: unknown (Alberto Fernandez Fernandez (January 2008)) [CC BY-SA 2.5 (http://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons %}
 Approximately 2000 years ago things for men (and women - less important but still) were happening at a slower pace. Dating was an elaborate endeavor (and not only among the patrician class) - a sophisticated ritual of official introductions, long courtships, subtle hints and ambiguous promises.
 
 {% blockquote Ovid,Ars Amatoria%}
