@@ -13,8 +13,8 @@ It is the 21 century and finding a date is easy! Things are moving fast - virtua
 Approximately 2000 years ago things for men (and women - less important but still) were happening at a slower pace. Dating was an elaborate endeavor (and not only among the patrician class) - a sophisticated ritual of official introductions, long courtships, subtle hints and ambiguous promises.
 
 {% blockquote Ovid,Ars Amatoria%}
-****ego sum praeceptor Amoris****
-I am a Tutor of Love
+Ego sum ****Praeceptor Amoris****
+I am a ****Tutor of Love****
 {% endblockquote %}
 
 
