@@ -23,6 +23,6 @@ Finding a date seemed to be a challenge on its own. However, one man seemed quie
 IF there be anyone among you <br>who is ignorant of the art of loving, <br>let him read this poem and, <br>having read it and acquired the knowledge it contains, <br>let him address himself to ****LOVE****...
 {% endblockquote %}
 
-The ****Book I**** teaches men how to find a girlfriend.
-The ****Book II**** gives practical advice on how to keep the “chosen one”.
-The ****Book III**** gives parallel instructions to women on how “to increase the craft of womankind”.
+The ****{% link Book I http://www.sacred-texts.com/cla/ovid/lboo/lboo58.htm %}**** teaches men how to find a girlfriend.
+The ****{% link Book II http://www.sacred-texts.com/cla/ovid/lboo/lboo59.htm %}**** gives practical advice on how to keep the “chosen one”.
+The ****{% link Book III http://www.sacred-texts.com/cla/ovid/lboo/lboo60.htm %}**** gives parallel instructions to women on how “to increase the craft of womankind”.
