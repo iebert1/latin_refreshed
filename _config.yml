@@ -4,15 +4,15 @@
 
 # Site
 title: Carpe Diem
-subtitle: with Magistra & Co.
+subtitle: "Latin Refreshed"
 description:
-author: Irina
+author: Irina Ebert
 language:
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://www.latinrefreshed.com/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
