@@ -8,6 +8,7 @@ date: 2016-05-23 22:27:21
  Yes and No...*
 
 In this day and age women (and men by default) have embarked on "a wild-goose chase" - *to obtain the "unobtainable* - ****Media Generated Beauty Standards****. And even though the ****Photoshop Culture**** has penetrated numerous locations around the world, the *ideal beauty* still remains an elusive concept because each culture sees *beauty* subjectively. This notion has been explored by *Esther Honig* in her ****[Before & After](http://www.people.com/article/beaty-standards-photoshop-esther-honig)**** project when she sent her image to about 40 Photoshop artists around the globe, with a simple instruction: “make me beautiful“).
+
 {% img http://www.diyphotography.net/wordpress/wp-content/uploads/2014/07/before-after-title.jpg By DIY Photography:[CC BY-SA 2.5 (http://www.diyphotography.net/journalist-checks-beauty-concept-photoshopped-40-courtiers/)], via Google images %}
 
 But despite common knowledge that standards of beauty vary around the world and the media-produced *anti-aging beauty* is more often than not "edited" by sophisticated software, our subconsciously driven tendency to strive for the *magazine perfection* results in ****hundreds of dollars spent at ULTA and Sephora**** where *fishy smelling face plasmas* and *algae-based anti-aging moisturizers* cost a pretty penny.
@@ -69,9 +70,6 @@ many things that please when
 done, are ugly in the doing...
 {% endblockquote %}
 
-Bold attitude but is arguably still relevant in our modern day and age! 
+Bold attitude but is arguably still relevant in our modern day and age!
 
 To read the English translation of the Art of Beauty by Ovid, click **** [here](http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.02.0069%3Atext%3DMed.)****
-The ****[Book I](http://www.sacred-texts.com/cla/ovid/lboo/lboo58.htm)**** teaches men how to find a girlfriend.
-The ****[Book II](http://www.sacred-texts.com/cla/ovid/lboo/lboo59.htm)**** gives practical advice on how to keep the “chosen one”.
-The ****[Book III](http://www.sacred-texts.com/cla/ovid/lboo/lboo60.htm)**** gives parallel instructions to women on how “to increase the craft of womankind”.
